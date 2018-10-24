@@ -1,0 +1,10 @@
+E:\My Drive\Høyskolen Kristiania\Semester 5\PG5200 - Tools programming\HearthstoneDesigner\CardDatabase\bin\Debug\CardDatabase.dacpac
+E:\My Drive\Høyskolen Kristiania\Semester 5\PG5200 - Tools programming\HearthstoneDesigner\CardDatabase\bin\Debug\CardDatabase.dll
+E:\My Drive\Høyskolen Kristiania\Semester 5\PG5200 - Tools programming\HearthstoneDesigner\CardDatabase\bin\Debug\CardDatabase.pdb
+E:\My Drive\Høyskolen Kristiania\Semester 5\PG5200 - Tools programming\HearthstoneDesigner\CardDatabase\obj\Debug\CardDatabase.sqlprojAssemblyReference.cache
+E:\My Drive\Høyskolen Kristiania\Semester 5\PG5200 - Tools programming\HearthstoneDesigner\CardDatabase\obj\Debug\CardDatabase.dll
+E:\My Drive\Høyskolen Kristiania\Semester 5\PG5200 - Tools programming\HearthstoneDesigner\CardDatabase\obj\Debug\CardDatabase.pdb
+E:\My Drive\Høyskolen Kristiania\Semester 5\PG5200 - Tools programming\HearthstoneDesigner\CardDatabase\obj\Debug\Model.xml
+E:\My Drive\Høyskolen Kristiania\Semester 5\PG5200 - Tools programming\HearthstoneDesigner\CardDatabase\obj\Debug\refactor.xml
+E:\My Drive\Høyskolen Kristiania\Semester 5\PG5200 - Tools programming\HearthstoneDesigner\CardDatabase\obj\Debug\postdeploy.sql
+E:\My Drive\Høyskolen Kristiania\Semester 5\PG5200 - Tools programming\HearthstoneDesigner\CardDatabase\obj\Debug\predeploy.sql

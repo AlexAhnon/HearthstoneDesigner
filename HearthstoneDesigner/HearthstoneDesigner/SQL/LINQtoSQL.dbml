@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CardDatabase" Class="LINQtoSQLDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=CardDatabase;Integrated Security=True;Connect Timeout=60;Encrypt=False;TrustServerCertificate=True" SettingsObjectName="HearthstoneDesigner.Properties.Settings" SettingsPropertyName="CardDatabaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CardTable" Member="CardTables">
+    <Type Name="CardTable">
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CardType" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="Mana" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Rarity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Attack" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Health" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Text" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsRestricted" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ImagePath" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
